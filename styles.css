@@ -1,0 +1,19 @@
+/* Styles to reset margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #090E11;
+}
+
+/* Styles to center the image inside the container */
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+img {
+    /* Optional: you can add more styles to the image here */
+}
